@@ -1,0 +1,7 @@
+on running the test.py on Google colab 
+the following results were obtained 
+
+Mean Squared Error (MSE): 0.021701411904270343
+Mean Absolute Error (MAE): 0.04769523841211521
+R² Score: 0.8822092083766547
+
